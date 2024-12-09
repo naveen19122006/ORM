@@ -54,9 +54,13 @@ urlpatterns = [
 ~~~
 
 # OUTPUT
-![Screenshot 2024-12-05 213846](https://github.com/user-attachments/assets/d6ba3309-ef69-44f3-b13f-d806a19d349a)
+![Screenshot 2024-12-09 221649](https://github.com/user-attachments/assets/57e0ee0b-4927-46b5-b9da-39d40cbd5bf2)
 
-![Screenshot 2024-12-05 213819](https://github.com/user-attachments/assets/37d24a9d-b4e7-4ef3-a308-4cd7f7f1ee44)
+
+![Screenshot 2024-12-09 221532](https://github.com/user-attachments/assets/7d98d0de-dab5-4847-a7c7-5fcc5490300a)
+
+
+![Screenshot 2024-12-09 221546](https://github.com/user-attachments/assets/991f3130-8814-4c9d-b615-74a464fb10f4)
 
 
 # RESULT
